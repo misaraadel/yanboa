@@ -1,0 +1,162 @@
+@media(max-width: 900px)
+{ 
+    h1,
+    h2,
+    h3 {
+        font-size: 20px !important;
+    }
+
+    h4 {
+        font-size: 18px !important;
+    }
+
+    h5 {
+        font-size: 16px !important;
+    }
+
+    h6 {
+        font-size: 14px !important;
+    }
+
+    p , a , .mobile-nav .mobile-nav-content .nav-list li .input-group input::placeholder{
+        font-size: 12px !important;
+    }
+    .fixed-top
+    {
+        background-color: #fff !important;
+    }
+    .navbar-fixed-top.scrolled .nav-logo-container
+    {
+        box-shadow: none !important;
+    }
+    .mobile-none ,
+    footer .content::after ,
+    .nav .nav-content .nav-links-container ,
+    .scroll-top-btn
+    {
+        display: none !important;
+    }
+    .larg-none
+    {
+        display: block !important;
+    }
+    .nav .nav-content .nav-logo-container .image-content
+    {
+        width: 80% !important;
+    }
+    .nav .nav-content .nav-logo-container , 
+    .copyrights .data
+    {
+        padding: 15px 0px;
+    }
+    .page-content .category ,
+    .nav .nav-content .nav-links-container , .banner
+    {
+        padding: 10px 0px;
+    }
+    .page-content .new-products 
+    {
+        padding: 25px 0px;
+    }
+    .nav .nav-content .nav-links-container
+    {
+        height: 65px;
+    }
+    .nav .nav-content .mobile-nav-button  ,  .mobile-only 
+    {
+        display: flex !important;
+    }
+    .bottom-nav
+    {
+        display: flex !important;
+    }
+    .bottom-nav li a 
+    {
+        font-size: 20px !important;
+    } 
+    .nav .nav-content .nav-logo-container ,
+    .mobile-nav .mobile-nav-content .nav-list li .input-group .input-group-text .btn
+    {   
+        border-radius: 0px !important;
+    }
+    .page-content .category
+    {
+        border-radius: 10px;
+    }
+    .navbar ,
+    header .header-content .owl-header .content ,
+    header .header-content .owl-header
+    {
+        padding-top: 0px !important;
+    }
+    .custom-btn ,
+    .mobile-nav .mobile-nav-content .nav-list li .input-group .input-group-text
+    {
+        padding: 7px 9px !important;
+    }
+    .mobile-nav .mobile-nav-content .nav-list li .input-group .input-group-text {
+        padding-left: 0px !important ;
+    }
+    .some-knowledge .box ,
+    .banner .banner-content .salary-content
+    {
+        flex-direction: column;
+        text-align: center;
+    }
+    footer .content ,
+    .some-knowledge .box ,
+    .banner .banner-content .salary-content  ,
+    .banner.big-banner .banner-content
+    {
+        text-align: center;
+    }
+    .page-content .category , .banner .custom-btn
+    {
+        margin-top: 10px !important;
+        margin-bottom: 0px !important;
+    }
+    header .header-content .owl-header .content ,
+    header .header-content .owl-header ,
+    header .header-content .owl-header
+    {
+        padding-bottom: 0px !important;
+    }
+    .copyrights 
+    {
+        padding: 10px 0px 100px  0px;
+    }
+    .mobile-nav .mobile-nav-content .nav-list li i ,
+    .category .owl-category .box .box-content
+    {
+        padding: 0px 10px;
+    } 
+    .copyrights p
+    {
+        margin: auto;
+    }  
+    .heading .head ,
+    .new-products .box
+    {
+        margin: 5px auto;
+    }
+    .heading ,
+    .mobile-nav .mobile-nav-content .nav-list li .input-group .input-group-text .btn
+    {
+        margin: 0px !important;
+    }
+    .banner .image-content img
+    {
+        height: 140px;
+    }
+    .copyrights .image-content {
+        width: fit-content;
+        margin: auto !important;
+        float: none !important;
+        
+    }
+    .copyrights .image-content img 
+    {
+        width: 125px;
+        margin: auto !important;
+    }
+}
